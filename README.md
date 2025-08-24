@@ -89,8 +89,4 @@ These bots interact with live wallets and real tokens:
 - Secure your private keys and .env files
 - Use rate limits and fail-safes when operating with real assets
 
----
-
-### 👤 Author
-#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
-#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
+--- 
